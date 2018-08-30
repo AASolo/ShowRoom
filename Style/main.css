@@ -1,0 +1,16 @@
+#menu {
+
+    background: url("../Pictures/Прямоугольник с цветами.png");
+}
+.submenu {
+display: none;
+}
+#menu li{
+
+    display: inline;
+}
+.topmenu a{
+    all: unset;
+    color: azure;
+
+}
